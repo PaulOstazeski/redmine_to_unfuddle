@@ -1,0 +1,6 @@
+username: 'username'
+password: 'password'
+subdomain: 'company_name'
+ssl?: false
+project_id: 6
+
